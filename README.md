@@ -1,2 +1,2 @@
 # MyMinimalOS
-This is a minimal Operating System
+This is a minimal Operating System.
